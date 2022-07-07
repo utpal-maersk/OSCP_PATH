@@ -13,5 +13,5 @@ jobs:
   run-shell-command:
     runs-on: ubuntu-latest
     steps:
-      -name: Echo a string
-      -run: echo "Hello Security DevSecOps"
+      name: Echo a string
+      run: echo "Hello Security DevSecOps"
